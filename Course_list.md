@@ -1,6 +1,11 @@
 # Google_Cloud
 Google Cloud Certified Associate Cloud Engineer - Course
 
+This course is designed to not only help you pass the Google Cloud Certified - Associate Cloud Engineer exam but also to learn the real-world skills you'll need to be a cloud engineer. This course loosely follows the domain objectives outlined in the certification info. However, instead of just walking you through each bullet point and showing how that particular item works, without any context, we’ve chosen to use a scenario.
+
+
+In this scenario, you’ve been hired by a startup called Find Seller. They're working on an app that allows users to post a picture of an item and tag it as something they want to buy or sell. They’re having trouble getting funded because currently all of their technology resides on the developers' laptops, and they don’t have any idea how to move to the cloud. That’s where you and I enter the scenario. You’ve been hired as a junior cloud operations engineer, and I’ll be working as a senior cloud engineer. I’ll be mentoring you as we’re assigned tasks from our boss, and we’ll go through the process of deploying and maintaining the application.
+
 Setting up a Cloud Solution Environment
 - Setting up Cloud Projects and Accounts
 - Section Introduction
